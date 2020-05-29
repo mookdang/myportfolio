@@ -2,3 +2,20 @@ body {
     background: url('../picures/bg.jpg');
     background-size: cover;
 }
+
+h1 {
+    font-size: 100px;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+
+}
+
+h3 {
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.container {
+    font-family: 'Courier New', Courier, monospace;
+    
+}
