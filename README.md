@@ -1,14 +1,14 @@
 # My portfolio
 
-#### This is my personal portfolio. Where I creat the programming. Created: 5/29/2020.
+#### This is my personal portfolio. Where I created the programm. Created: 5/29/2020.
 
 #### By Mook Dang
 
-#### this is a site talking about myself. What my name, my hobbits, my backgroup, etc. It's my first independent project at epicodus! 
+#### This is a site about myself. What's my name, my hobbits, my background, etc. It's my first independent project at Epicodus! 
 
 ## Setup/Installation Requirements
 
-1. 1. Go to the GitHub project repository
+1. Go to the GitHub project repository
 2. Download file as a zip file to extract OR clone project using the .git URL.
 3. Navigate to folder and open index.html
 
