@@ -25,6 +25,6 @@ Used HTML and CSS to create blog. Also add bootstrap to style the page.
 
 ### License
 
-Copyright (c) 2016 **_{Mook Dang}_**
+Copyright (c) 2016 Mook Dang
 
 This software is licensed under MIT license.
