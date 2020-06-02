@@ -6,11 +6,16 @@
 
 #### This is a site about myself. What's my name, my hobbits, my background, etc. It's my first independent project at Epicodus! 
 
+## Link to Website
+
+https://mookdang.github.io/myportfolio/
+
 ## Setup/Installation Requirements
 
 1. Go to the GitHub project repository
 2. Download file as a zip file to extract OR clone project using the .git URL.
 3. Navigate to folder and open index.html
+4. 
 
 
 ## Known Bugs
