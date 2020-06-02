@@ -15,7 +15,6 @@ https://mookdang.github.io/myportfolio/
 1. Go to the GitHub project repository
 2. Download file as a zip file to extract OR clone project using the .git URL.
 3. Navigate to folder and open index.html
-4. 
 
 
 ## Known Bugs
