@@ -8,7 +8,7 @@
 
 ## Link to Website
 
-mookdang.github.io/myportfolio/
+https://mookdang.github.io/myportfolio/
 
 ## Setup/Installation Requirements
 
